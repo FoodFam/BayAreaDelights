@@ -7,3 +7,7 @@ Hi, This is [GITHUB] and I would like to contribute to FoodFam
 ```
 
 Further information will be provided pending me accepting your application
+
+
+---
+As always, Every repo will have posts found in the discussion tab
