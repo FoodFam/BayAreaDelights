@@ -1,3 +1,3 @@
 # Bay Area Delights
 Summer of 2022 rolls around and some of us find ourselves in the Bay Area...If you are a foodie, post your food adventures!
-Start by doing the following:
+Start by pininging me on Discord for a page to post on =)
