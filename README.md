@@ -5,3 +5,5 @@ Start by copying this message and sending it via DM to me on Discord with `[GITH
 ```
 Hi, This is [GITHUB] and I would like to contribute to FoodFam (BayAreaDelights)
 ```
+
+Further information will be provided pending me accepting your application
